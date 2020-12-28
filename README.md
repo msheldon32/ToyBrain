@@ -1,2 +1,2 @@
 # ToyBrain
-Bare-bones neural network implementation
+Bare-bones feedforward neural network implementation in C++
